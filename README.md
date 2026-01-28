@@ -33,9 +33,6 @@ The dataset consists of cleaned Superstore sales data, including:
 ## 📈 Conclusion
 The **Business Sales Performance Analytics** dashboard provides a comprehensive view of business performance across time, regions, and product categories. The insights derived from this analysis enable data-driven decision-making, improve forecasting accuracy, and help optimize sales and profitability strategies.
 
-## 🔗 Dashboard Link
-(Add your Tableau Public dashboard link here)
-
 ## 📌 Author
 Vanishree M L
 (Data Science & Analytics Project)
