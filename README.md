@@ -16,13 +16,13 @@ The dataset consists of cleaned Superstore sales data, including:
 - Region, Category, Sub-Category, and Product details
 
 ## 📊 Dashboard Highlights
-### 1. Year-wise Sales Analysis
-### 2. Profit Analysis as per Ship Date
-### 3. Monthly Revenue Analysis
-### 4. Average Sales Analysis
-### 5. Category-wise Product Sales Analysis
-### 6. Segmentwise Sales and Profit
-### 7. Percentage Contribution of Regions
+1. Year-wise Sales Analysis
+2. Profit Analysis as per Ship Date
+3. Monthly Revenue Analysis
+4. Average Sales Analysis
+5. Category-wise Product Sales Analysis
+6. Segmentwise Sales and Profit
+7. Percentage Contribution of Regions
 
 ## 🔍 Key Insights
 - Sales and profits have consistently improved over time.
